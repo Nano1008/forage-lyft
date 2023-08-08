@@ -1,4 +1,4 @@
-from .battery import Battery
+from batteries.battery import Battery
 
 
 class SpindlerBattery(Battery):
